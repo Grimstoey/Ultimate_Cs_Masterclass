@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\bin\Debug\net6.0\to_do_list.exe
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\bin\Debug\net6.0\to_do_list.deps.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\bin\Debug\net6.0\to_do_list.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\bin\Debug\net6.0\to_do_list.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\bin\Debug\net6.0\to_do_list.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\refint\to_do_list.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\to_do_list.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\to_do_list\obj\Debug\net6.0\ref\to_do_list.dll
