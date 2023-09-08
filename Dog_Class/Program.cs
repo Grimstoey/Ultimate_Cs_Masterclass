@@ -1,6 +1,4 @@
-﻿var dog1 = new Dog("Austin", "Thai", 7).Describe;
-Console.WriteLine(dog1);
-public class Dog
+﻿public class Dog
 {
     private string _name;
     private string _breed;
