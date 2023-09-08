@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\bin\Debug\net6.0\Dog_Class.exe
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\bin\Debug\net6.0\Dog_Class.deps.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\bin\Debug\net6.0\Dog_Class.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\bin\Debug\net6.0\Dog_Class.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\bin\Debug\net6.0\Dog_Class.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\refint\Dog_Class.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\Dog_Class.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dog_Class\obj\Debug\net6.0\ref\Dog_Class.dll
