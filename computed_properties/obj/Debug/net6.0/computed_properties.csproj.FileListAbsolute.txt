@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\bin\Debug\net6.0\computed_properties.exe
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\bin\Debug\net6.0\computed_properties.deps.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\bin\Debug\net6.0\computed_properties.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\bin\Debug\net6.0\computed_properties.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\bin\Debug\net6.0\computed_properties.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\refint\computed_properties.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\computed_properties.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\computed_properties\obj\Debug\net6.0\ref\computed_properties.dll
