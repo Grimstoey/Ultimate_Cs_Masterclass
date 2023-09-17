@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\bin\Debug\net6.0\Dice_Roll_Game.exe
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\bin\Debug\net6.0\Dice_Roll_Game.deps.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\bin\Debug\net6.0\Dice_Roll_Game.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\bin\Debug\net6.0\Dice_Roll_Game.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\bin\Debug\net6.0\Dice_Roll_Game.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\refint\Dice_Roll_Game.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\Dice_Roll_Game.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\Dice_Roll_Game\obj\Debug\net6.0\ref\Dice_Roll_Game.dll
