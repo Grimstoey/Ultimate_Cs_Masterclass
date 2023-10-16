@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\bin\Debug\net6.0\virtual_methods.exe
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\bin\Debug\net6.0\virtual_methods.deps.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\bin\Debug\net6.0\virtual_methods.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\bin\Debug\net6.0\virtual_methods.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\bin\Debug\net6.0\virtual_methods.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\refint\virtual_methods.dll
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.pdb
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\virtual_methods.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\learn_cs\virtual_methods\obj\Debug\net6.0\ref\virtual_methods.dll
