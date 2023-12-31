@@ -1,0 +1,14 @@
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\bin\Debug\net7.0\TodayMenu.exe
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\bin\Debug\net7.0\TodayMenu.deps.json
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\bin\Debug\net7.0\TodayMenu.runtimeconfig.json
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\bin\Debug\net7.0\TodayMenu.dll
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\bin\Debug\net7.0\TodayMenu.pdb
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.AssemblyInfoInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.AssemblyInfo.cs
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.csproj.CoreCompileInputs.cache
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.dll
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\refint\TodayMenu.dll
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.pdb
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\TodayMenu.genruntimeconfig.cache
+C:\Users\wiwee\Desktop\practice_cs\today's_food_menu\TodayMenu\obj\Debug\net7.0\ref\TodayMenu.dll
